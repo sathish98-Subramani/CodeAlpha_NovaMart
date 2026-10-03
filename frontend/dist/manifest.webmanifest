@@ -1,0 +1,9 @@
+{
+  "name": "NovaMart",
+  "short_name": "NovaMart",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#151515",
+  "icons": [{ "src": "/icon.svg", "sizes": "128x128", "type": "image/svg+xml" }]
+}
